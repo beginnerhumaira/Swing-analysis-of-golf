@@ -6,6 +6,7 @@ Requirements
 1.Python 3.x
 2.OpenCV (cv2)
 3.MediaPipe (mp)
+4.Feel free to use your own pictures
 
 Usage
 Replace "golf.jpg" with the path to your golf swing image.
